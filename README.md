@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://modulout.com/path-to-your-logo.png" width="160" alt="Modulout LLC Logo">
+  <img src="https://www.modulout.com/wp-content/uploads/2025/01/cropped-Modulout-300x43-1.png" width="160" alt="Modulout LLC Logo">
 </p>
 
 <h1 align="center">Modulout LLC</h1>
@@ -36,12 +36,6 @@ A complete WordPress plugin that allows tipsters to publish predictions, track r
 
 ---
 
-### 🟣 TipsterScore — Tipster Ratings & Verified Stats  
-**Website:** https://tipsterscore.com  
-A platform offering transparent tipster profiles and trusted performance data.
-
----
-
 ## 🧱 Technologies We Work With
 
 - Go (Golang)
@@ -58,9 +52,7 @@ A platform offering transparent tipster profiles and trusted performance data.
 ## 🌐 Connect With Us
 
 - **Website:** https://modulout.com  
-- **LinkedIn:** (add your page link)
-- **Crunchbase:** (add your listing)  
-- **Twitter / X:** (add when ready)
+- **LinkedIn:** http://linkedin.com/company/modulout
 
 ---
 
