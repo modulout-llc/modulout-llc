@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://www.modulout.com/wp-content/uploads/2025/01/cropped-Modulout-300x43-1.png" width="160" alt="Modulout LLC Logo">
-</p>
-
 <h1 align="center">Modulout LLC</h1>
 
 <p align="center">
